@@ -1,7 +1,7 @@
-# Entertainment Archive
+# Houseplant Hub
 ## 1 Introduction
 ### 1.1 Purpose
-A website that stores and displays ratings on movies, shows, and novels of all kinds.
+A website that allows users to track progress of their plants.
 [Explain to the user what purpose your project serves]
 
 ### 1.2 Problem Resolution
